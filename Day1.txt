@@ -1,0 +1,180 @@
+========================
+Rajesh Kumar
+LAB - 
+	ACCESS TO WINDOWS
+	-----
+		VM - LINUX	- Centos7
+					putty
+					git bash 
+		VM - LINUX
+		VM - Windows
+========================
+Session 
+	- 10 AM IST
+	- 6 PM IST
+----------------------
+Lunch Break - 1 - 2 PM
+--------------------
+2 BREAK 
+	15 mins
+	11.30 
+	4:00
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+What is Jenkins?
+-----------------------------------
+https://www.devopsschool.com/blog/what-is-jenkins-and-why-we-need-it/
+	CI tool
+	Coz of it can integrate all tools,people,process, Phases continously
+	Dev in JAVA
+		-- JRE
+		-- Platform indep
+	Release
+	- Jenkins	--------FOCUS -- FREE and Open Source
+	- Enterprise Jenkins		- Paid	by CloudBees https://www.cloudbees.com/
+	- JenkinsX			- Free	https://jenkins-x.io/ FOR CONTAINER
+	- BlueOcean			- FREE	https://www.jenkins.io/projects/blueocean/
+						For Pipeline CODE.
+	
+	Powered by Plugins
+	- Each & Every Feature of jenkins comes from plugins
+	https://plugins.jenkins.io/
+
+	Version
+	2.X
+	https://www.jenkins.io/download/
+
+
+What is CI?.
+
+-----------------------------------
+------------------------------------------------------------
+Auto Build + Auto Test
+----------------------
+       Imm Feedback
+
+SDLC
+
+ARC -->----------------DEV----------------------------------><--------QA------------>
+-----------------------------------------------------------------------------------
+PLAN -> Code -> Analyze -> Build -> UT -> Package -> Archive -> Dep2QA -> AT -> CC
+-----------------------------------------------------------------------------------
+JIRA -> Git  -> SonarQube->Maven -> Junit->JAR    -> Nexus   -> Ansible -> Selenium -> Jacoco
+================================================================================================
+					Jenkins
+					---------- It can integrate with ALL.
+					---------- Automate Build/QA Steps
+					---------- Scheduling
+					---------- Feedback
+				
+					--- Node mgmt
+					--- Users - Accesss 
+					- Backup & restore
+https://www.devopsschool.com/path/
+
+What we want?
+---------------------------
+DevOps
+-----
+	Quality Release
+	Immediate Release
+	Cost Reduction in 
+			- Dev
+			- Running
+-------
+How?
+	Integrate Everything.
+		-> Process
+		-> Team
+		-> Tools
+		-> Mindsets
+	Lets do everythng
+	----------------------------
+	I am devOps
+	- Are you doing a CODE for the product?
+	- Are you doing a CODE for Testing a product?
+	- Are you doing a CODE for Ops/Integ
+====================================================================================
+Jenkins Architecture OR How Jenkins works.....
+================================================================
+
+Human --> Jenkins Web UI ---------------> Node/Slave
+	--> Jobs/Project/Item		---> VMs(Windows+Linux) | Container
+	--> Steps
+		Build
+		QA
+		Feedback
+		Scheduling
+		Post build
+---------------------------------------------------------------
+		JAVA				JAVA
+--- NO DATABASE. It Store all info in .xml
+--------------------------------------------------
+		8080
+https://www.devopsschool.com/blog/jenkins-architecture-explained/
+======================================================================
+Other tools
+-----------------------------------------------------
+Bamboo
+Teamcity
+CICircle
+https://www.devopsschool.com/blog/top-5-cloud-based-continuous-integration-tools/
+https://www.devopsschool.com/blog/top-10-continuous-integration-tool/
+https://www.devopsschool.com/blog/list-of-hosted-continuous-integration-software-tool/
+=========================================
+How to install jenkins?
+----------------------------
+	JRE
+	-----------
+	ALL PLATFORMS
+
+Docker
+Ubuntu/Debian
+CentOS/Fedora/Red Hat
+Windows
+openSUSE
+FreeBSD 
+Gentoo   
+macOS   
+OpenBSD   
+
+13.235.81.87
+- JAVA 
+- https://www.devopsschool.com/blog/complete-guide-of-java-installation-in-linux/
+- JENKINS
+- https://pkg.jenkins.io/redhat-stable/
+https://www.devopsschool.com/tutorial/jenkins/jenkins-installation-and-configuration.html
+
+http://13.235.81.87:8080/
+rajesh
+rajesh123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
